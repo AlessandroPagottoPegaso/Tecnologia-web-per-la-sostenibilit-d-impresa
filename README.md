@@ -13,5 +13,7 @@ directory img = contenitore delle immagini utilizzate.
 
 directory assets= contenitore con il report ufficiale dell' azienda.
 
+.gitattributes= istruzione per escludere la conversione del file PDF
+
 Matricola N° 0312301952
 
